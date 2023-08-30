@@ -1,0 +1,6 @@
+id=Xzhi-custom-dir-mount
+name=Xzhi-自定义目录挂载
+version=v2.0.65
+versionCode=20230830
+author=Xzhi
+description=配置文件路径：/storage/emulated/0/Android/Xzhi/custom-dir-mount/目录挂载.conf 或 /data/media/0/Android/Xzhi/custom-dir-mount/目录挂载.conf
